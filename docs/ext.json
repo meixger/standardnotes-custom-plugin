@@ -1,0 +1,14 @@
+{
+    "name": "Custom Plugin",
+    "content_type": "SN|Component",
+    "main": "index.html",
+    "area": "editor-editor",
+    "note_type": "markdown",
+    "file_type": "md",
+    "showInGallery": true,
+    "identifier": "com.meixger.sn-custom-plugin",
+    "version": "1.0.0",
+    "url": "http://localhost:8081",
+    "download_url": "http://localhost:8082",
+    "latest_url": "http://localhost:8083"
+}
